@@ -426,3 +426,4 @@ FodyWeavers.xsd
 
 # Official VS Code C# Dev Kit Extension exclusion
 #*.lscache
+The room/Library/PackageCache/com.unity.burst@1.8.13/.Runtime/libburst-llvm-16.dylib
